@@ -28,6 +28,13 @@ pull request exist. Check for a open pull request
 
 
 
+Forks vs Pull Request...
+
+
+Pull Request --> making changes to existing project, with ability to merge back into origianl existing file/project
+
+Fork --> making a exact clone with history and changes of the original file/project... ability to merge back into existing project/file if desired..
+
 
 
 
