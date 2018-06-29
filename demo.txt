@@ -25,3 +25,14 @@ branches
 Merge branch -> brings multple branches of project together into master branch. 
 
 pull request exist. Check for a open pull request
+
+
+
+
+
+
+
+Merge branch -> brings multple branches of project together into master branch.  //will remove line 25 and 27 to resolve conflict...
+
+pull request exist. Check for a open pull request
+
