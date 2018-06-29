@@ -25,3 +25,4 @@ branches
 Merge branch -> brings multple branches of project together into master branch. 
 
 
+test Branch --> new branch created---> patch-1
