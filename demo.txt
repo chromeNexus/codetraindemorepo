@@ -7,6 +7,8 @@ orange
 
 git - version control and collab software 
 
+Repo (Repository)- the project itself... group of files/folders which make up the project...
+
 github - web app that facilitates version control and collab software
 
 commit - saving changes made to a specific file / repo / folder
