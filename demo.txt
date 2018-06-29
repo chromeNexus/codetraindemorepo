@@ -1,1 +1,4 @@
 this is a new demo text file.
+red
+green
+blue black
