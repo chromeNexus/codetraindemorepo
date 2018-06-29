@@ -4,3 +4,17 @@ green
 blue black
 yellow
 orange
+
+git
+
+github
+
+commit
+
+hash
+
+version control
+
+collab
+
+branches
