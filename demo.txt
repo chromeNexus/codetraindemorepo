@@ -5,16 +5,23 @@ blue black
 yellow
 orange
 
-git
+git - version control and collab software 
 
-github
+github - web app that facilitates version control and collab software
 
-commit
+commit - saving changes made to a specific file / repo / folder
 
-hash
+hash - unique id code assigned to file for every commit performed
 
-version control
+version control - shows you all versions of a specified file to follow development throughout its lifecycle
 
-collab
+collab - working with other users on a project / file
 
-branches
+branches 
+
+  Master branch -> main copy of file/folder/ project
+  Multiple branches can exist...
+  
+Merge branch -> brings multple branches of project together into master branch. 
+
+
